@@ -8,6 +8,8 @@ I'm aiming for a career in semiconductor evaluation, test, and quality engineeri
 
 - Industrial Anomaly Detection (Multimodal, Reverse Distillation)
 
+- PHM (Prognostics and Health Management) 
+
 - Semiconductor Reliability Evaluation 
 
 - Smart Factory / Quality Engineering
