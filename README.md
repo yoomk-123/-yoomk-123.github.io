@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Yoonkyeong Na
-Double major in **Systems Management Engineering** and **Semiconductor Engineering** at Sungkyunkwan University (SKKU). I'm  aiming for a career in semiconductor evaluation, test, and quality engineering.
+I am a **Double Major** in **Systems Management Engineering** and **Semiconductor Engineering** at Sungkyunkwan University (SKKU).
+I'm aiming for a career in semiconductor evaluation, test, and quality engineering.
 
 ---
 ## 🔬 **Research Interests**
