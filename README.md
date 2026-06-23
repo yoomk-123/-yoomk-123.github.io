@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Yoonkyeong Na
-Double major in **Systems Management Engineering** and **Semiconductor Engineering** at Sungkyunkwan University (SKKU).
-I'm  aiming for a career in semiconductor evaluation, test, and quality engineering.
+Double major in **Systems Management Engineering** and **Semiconductor Engineering** at Sungkyunkwan University (SKKU). I'm  aiming for a career in semiconductor evaluation, test, and quality engineering.
+
 ---
 ## 🔬 **Research Interests**
 - Industrial Anomaly Detection (Multimodal, Reverse Distillation)
 - Prognostics and Health Management (PHM)
 - Semiconductor Reliability Evaluation (KBQ, Rainflow Counting)
 - Smart Factory / Quality Engineering
+
 ---
 ## 🎓 Education
 - **B.S. in Systems Management Engineering / Semiconductor Engineering (Double Major)**
   Sungkyunkwan University (SKKU)
+
 ---
 ## 📝 Research Achievements (Papers & Software)
 ### CPRD: Cross-Predictive Reverse Distillation for Multimodal Industrial Anomaly Detection
@@ -28,6 +30,7 @@ I'm  aiming for a career in semiconductor evaluation, test, and quality engineer
 - **Management No.:** R-2026-0511-KR-1
 - **Assignee:** SKKU Industry-Academic Cooperation Foundation
 - **Status:** Rights assigned (Deed of Assignment), June 2, 2026 — application in progress
+
 ---
 ## 🛠 Capstone Design Project
 ### Cross-Predictive Reverse Distillation Based Anomaly Detection Framework for Multimodal Industrial Anomaly Detection
@@ -37,6 +40,7 @@ I'm  aiming for a career in semiconductor evaluation, test, and quality engineer
 - **My Role:** Related work research & organization, demo model interface implementation, presentation panel design
 - **Key Results:** I-AUROC 96.85% on MVTec 3D-AD, 93.31% on Eyecandies, 45.0 FPS / 535MB Peak VRAM without a memory bank
 🎥 [Final Presentation Video](https://youtu.be/JxFvQGW-UfE)
+
 ---
 ## 📚 Research Paper List
 
@@ -52,9 +56,11 @@ I'm  aiming for a career in semiconductor evaluation, test, and quality engineer
 |---|---|
 | EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies | [Seminar Video](https://www.youtube.com/watch?v=LUB-qgP8UiE&t=42s) |
 | Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory | [Seminar Video](https://www.youtube.com/watch?v=MJHjkjljuoY&list=PL3Qkr3sk7Xnc9DXujRgt-eIU6-kdhPCQv&index=8&t=1642s) |
+
 ---
 ## 💼 Industry-Academic Project
 - **Samsung DS Industry-Academic Project** — Semiconductor reliability evaluation (KBQ methodology, Miner's Rule via Rainflow counting)
+
 ---
 ## 📫 Contact
 - **GitHub:** [@yoomk-123](https://github.com/yoomk-123)
